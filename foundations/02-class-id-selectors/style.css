@@ -1,0 +1,17 @@
+p{
+    font-size: 1.5rem;
+    background-color: pink;
+}
+
+#div2{
+    color: blue;
+    font-size: 3rem;
+}
+#div3{
+    background-color: greenyellow;
+    font-size: 4rem;
+}
+
+.big{
+    font-size: 4rem;
+}
